@@ -1,5 +1,5 @@
 FROM php8.2-apache
 
-COPY . varwwwhtml
+COPY . var/www/html/
 
 EXPOSE 80
